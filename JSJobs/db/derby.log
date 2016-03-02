@@ -1,0 +1,31 @@
+Wed Mar 02 20:30:57 BRT 2016 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Wed Mar 02 20:30:57 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0153-39ab-8b25-ffff8015d241
+no diretório de banco de dados C:\Users\Wisner\Documents\Projetos\Git\Github\trab-prog-web-20152\JSJobs\db\JSJobs_db 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Wisner\Documents\Projetos\Git\Github\trab-prog-web-20152\JSJobs\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 02 20:31:05 BRT 2016:
+Encerrando a instância a816c00e-0153-39ab-8b25-ffff8015d241
+Wed Mar 02 20:31:05 BRT 2016 Thread[DRDAConnThread_3,5,main] (DATABASE = JSJobs_db), (DRDAID = {2}), Banco de dados 'JSJobs_db' fechado.
+----------------------------------------------------------------
+Wed Mar 02 20:32:05 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0153-39ab-8b25-ffff8015d241
+no diretório de banco de dados C:\Users\Wisner\Documents\Projetos\Git\Github\trab-prog-web-20152\JSJobs\db\JSJobs_db 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Wisner\Documents\Projetos\Git\Github\trab-prog-web-20152\JSJobs\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
